@@ -11,7 +11,7 @@ This program, given the positions of the markers and the tile numbers of removed
 #Input
 It is unknown how many lines of input there will be.  The first line is the tile number of the cross marker.  The second line is the tile number of the X marker.  The following lines are the tile numbers of the removed tiles.  The input will end when 0 is entered. 
 
- #Sample 
+#Sample 
 Sample Input (each comma represents a hard enter):
 
 46, 4, 45, 47, 38, 40, 0
